@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/max-e/OneDrive/Bureau/ProjectBlueprintFinalV2/ProjectBlueprint/Content/Maps/AlchemistsHouse.umap",
+				"C:/Users/max-e/OneDrive/Bureau/ProjectBlueprintFinalV2/ProjectBlueprint/Content/Blueprints/Implemented/BP_Key.uasset",
+				"C:/Users/max-e/OneDrive/Bureau/ProjectBlueprintFinalV2/ProjectBlueprint/Content/AlchemistsHouse/Assets/Models/Ambry4_Blueprint.uasset",
+				"C:/Users/max-e/OneDrive/Bureau/ProjectBlueprintFinalV2/ProjectBlueprint/Content/Door_aperture_2_Blueprint.uasset",
+				"C:/Users/max-e/OneDrive/Bureau/ProjectBlueprintFinalV2/ProjectBlueprint/Content/Blueprints/Implemented/BP_FirstPersonCharacter.uasset",
+				"C:/Users/max-e/OneDrive/Bureau/ProjectBlueprintFinalV2/ProjectBlueprint/Content/Blueprints/Implemented/BP_Candle.uasset",
+				"C:/Users/max-e/OneDrive/Bureau/ProjectBlueprintFinalV2/ProjectBlueprint/Content/Blueprints/Implemented/Chest_cover6_Blueprint.uasset",
+				"C:/Users/max-e/OneDrive/Bureau/ProjectBlueprintFinalV2/ProjectBlueprint/Content/AlchemistsHouse/Assets/Models/Plant6_Blueprint.uasset"
+			]
+		}
+	]
+}
